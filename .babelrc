@@ -1,0 +1,9 @@
+{
+  "presets": [
+    ["env", {
+      "modules": "commonjs" //node 环境 true, webpack 环境 false
+    }],
+    "stage-0",
+    "react"
+  ]
+}

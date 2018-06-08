@@ -1,0 +1,22 @@
+.search{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  &__hd{
+    font-size: 18px;
+  }
+  &__bd{
+    margin-top: 80px;
+    width: 90%;
+    .pure-input-rounded{
+      display: block;
+      width: 100%;
+    }
+    button[type=submit]{
+      display: block;
+      width: 100%;
+    }
+  }
+}

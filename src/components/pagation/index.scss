@@ -1,0 +1,15 @@
+.pagation{
+  display: flex;
+  height: 40px;
+  padding: 0 20px;
+  justify-content: space-between;
+  align-items: center;
+  > a{
+    display: block;
+    color: #666;
+  }
+  > span{
+    display: block;
+    color: #666;
+  }
+}

@@ -1,0 +1,1 @@
+export const imgPrefix = 'http://statics.zhuishushenqi.com';
